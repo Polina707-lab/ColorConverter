@@ -1,0 +1,12 @@
+# Qt build files
+build*/
+debug/
+release/
+*.user
+*.user.*
+*.qmake.stash
+Makefile*
+*.exe
+*.dll
+*.o
+*.obj
