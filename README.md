@@ -45,7 +45,7 @@ ui_mainwindow.h
 
 Для запуска программы на Windows:
 
-1. Скачайте архив из релиза: [Скачать ColorConverter-build.zip] (https://github.com/Polina707-lab/ColorConverter/releases/download/v1.0/ColorConverter-build.zip)
+1. Скачайте архив из релиза: (https://github.com/Polina707-lab/ColorConverter/releases/download/v1.0/ColorConverter-build.zip)
 
 2. Распакуйте архив.  
 
